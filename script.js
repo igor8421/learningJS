@@ -1,5 +1,4 @@
-let js = "amazing";
-if (js === "amazing")alert ("JavaScript is FUN");
-
-40 + 8 + 23 - 10;
-console.log (40 + 8 + 23 - 10); 
+let country = "Russia";
+let continent = "Evrazia";
+let population = 145;
+console.log (country, continent, population); 
